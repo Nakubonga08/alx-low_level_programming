@@ -19,7 +19,7 @@ lowerCase += 1;
 }
 while (upperCase <= 'z')
 {
-putchar (upperCase);
+putchar(upperCase);
 upperCase += 1;
 }
 putchar('\n');
